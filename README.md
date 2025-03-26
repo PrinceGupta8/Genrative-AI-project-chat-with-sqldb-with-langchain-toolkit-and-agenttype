@@ -31,8 +31,8 @@ This project is a **Streamlit-based AI chatbot** that allows users to interact w
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/PrinceGupta8/sql-chatbot.git
-   cd sql-chatbot
+   git clone https://github.com/PrinceGupta8/Genrative-AI-project-chat-with-sqldb-with-langchain-toolkit-and-agenttype.git
+   cd Genrative-AI-project-chat-with-sqldb-with-langchain-toolkit-and-agenttype
    ```
 2. **Create a virtual environment**
    ```bash
@@ -81,5 +81,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-🚀 **Enhance your SQL interactions with AI-powered queries!**
+**Enhance your SQL interactions with AI-powered queries!**
 
